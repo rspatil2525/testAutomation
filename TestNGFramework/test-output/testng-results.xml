@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10790" started-at="2020-09-22T15:06:19 IST" finished-at="2020-09-22T15:06:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10790" started-at="2020-09-22T15:06:19 IST" finished-at="2020-09-22T15:06:29 IST">
+      <class name="com.datadriven.HalfEbayTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.HalfEbayTest@6e6c3152]" name="setUp" is-config="true" duration-ms="9684" started-at="2020-09-22T15:06:19 IST" finished-at="2020-09-22T15:06:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitle()[pri:0, instance:com.datadriven.HalfEbayTest@6e6c3152]" name="getTitle" duration-ms="196" started-at="2020-09-22T15:06:28 IST" finished-at="2020-09-22T15:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.HalfEbayTest@6e6c3152]" name="tearDown" is-config="true" duration-ms="817" started-at="2020-09-22T15:06:29 IST" finished-at="2020-09-22T15:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.datadriven.HalfEbayTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
